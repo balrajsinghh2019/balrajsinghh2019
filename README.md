@@ -2,7 +2,7 @@
 - 👀 I’m interested in webdevelopment ... specifically Drupal
 - 🌱 I’m pursuing my post graduation education from Humber College
 - 💞️ I’m looking part time web development work
-- 📫 How to reach me ... Skype : balrajsingh299, Email : balrajsinghh2019@gmail.com, Cell : +918527117990, +918287513066
+- 📫 How to reach me ... Skype : balrajsingh299, Email : balrajsinghh2019@gmail.com, Whatsapp: 8527117990, Cell : +918527117990, +918287513066
 
 <!---
 balrajsinghh2019/balrajsinghh2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
